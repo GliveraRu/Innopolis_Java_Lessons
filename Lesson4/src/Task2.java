@@ -5,7 +5,7 @@ public class Task2 {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         bool(a);
-        System.out.println(greather(a));
+        //System.out.println(greather(a));
 
 
     }
