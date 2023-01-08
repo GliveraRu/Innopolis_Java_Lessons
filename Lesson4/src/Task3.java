@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//My Version
 public class Task3 {
     public static void main(String[] args) {
 //Не Автомат
@@ -21,7 +21,6 @@ public class Task3 {
         int vershina =- sc.nextInt();
         System.out.println("Введите количество уровней: ");
         int urovni = sc.nextInt();
-
         for (int i=0; i<=urovni; i++) {
             vershina++;
             Pyramid(simvol,vershina);
@@ -40,3 +39,30 @@ public class Task3 {
         }
     }
 }
+
+
+//Version Lesson
+//public class Task3 {
+//    public static void main(String[] args) {
+//        piramid(1);
+//        System.out.println();
+//        piramid(2);
+//        System.out.println();
+//        piramid(3);
+//        System.out.println();
+//        piramid(4);
+//        System.out.println();
+//        piramid(5);
+//        System.out.println();
+//    }
+//    public static void piramid (int count) {
+//        if (count>0) {
+//            count --;
+//            System.out.print(count +" ");
+//            piramid(count);
+//        }
+//
+//
+//
+//    }
+//}
