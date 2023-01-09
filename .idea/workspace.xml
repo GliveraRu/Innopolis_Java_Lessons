@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a832f764-1a90-424c-ab4f-10f7f65e5ba0" name="Changes" comment="Lesson 5 ООП">
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/demo/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/demo/Behavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/demo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/demo/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/demo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/demo/Men.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/demo/Tools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Begemot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Belki.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Cats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Veterinar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Zookeeper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/task.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/zooTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a832f764-1a90-424c-ab4f-10f7f65e5ba0" name="Changes" comment="Lesson 5 ООП Продолжение + Zoo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673202860718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lesson 5 ООП Продолжение + Zoo">
+      <created>1673297617074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673297617074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 5 ООП" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 5 ООП" />
+    <MESSAGE value="Lesson 5 ООП Продолжение + Zoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 5 ООП Продолжение + Zoo" />
   </component>
 </project>
