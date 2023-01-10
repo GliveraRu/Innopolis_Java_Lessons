@@ -3,13 +3,7 @@ package zoo;
 //Болеют
 public class Animal {
     String name;
-    boolean zdorov;
-
-
-
-
-
-
+    boolean zdorov = true;
     String cage = "В вольере";
 
     public void ukus (Animal animal,Human human) {

@@ -18,7 +18,6 @@ public abstract class Human {
         } else {
             System.out.println("Белка в вольере");
         }
-
     }
     abstract void povazka();
 

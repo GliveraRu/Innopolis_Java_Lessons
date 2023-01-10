@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a832f764-1a90-424c-ab4f-10f7f65e5ba0" name="Changes" comment="Lesson 5 ООП Продолжение + Zoo" />
+    <list default="true" id="a832f764-1a90-424c-ab4f-10f7f65e5ba0" name="Changes" comment="Lesson 5 ООП Продолжение + Zoo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Veterinar.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/Veterinar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/zooTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5_OOP/src/zoo/zooTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lesson5_OOP/zoo/zooTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson5_OOP/zoo/zooTestDrive.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,15 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GItub/Innopolis_Java_Lessons&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "D:/GItub/Innopolis_Java_Lessons",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.zooTestDrive">
     <configuration name="CarTestDeive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="car.CarTestDeive" />
