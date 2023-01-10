@@ -7,9 +7,10 @@ package zoo;
 // Следит за белками
 // Накладывает повязку
 public class Veterinar extends Human {
-    public Veterinar () {
+    public Veterinar() {
         profession = "Ветеринар";
     }
+
     @Override
     void obed() {
         if (golodny) {
@@ -19,10 +20,6 @@ public class Veterinar extends Human {
             System.out.println("Ветеринар не голодный...");
         }
     }
-
-
-
-
 
     @Override
     void povazka() {
@@ -34,4 +31,31 @@ public class Veterinar extends Human {
         }
     }
 
+    public void proveritHealt(Animal animal) {
+        System.out.println(profession + " проверяет здоровье " + animal.name);
+        if (!animal.zdorov) {
+            System.out.println("Животное заболело!\n" + animal.name + " на карантине!");
+            animal.cage = "на карантине";
+
+        } else {
+            System.out.println(animal.name + " здоров!");
+        }
+    }
+
+    void karantin(Animal animal) {
+        System.out.println(profession + " смотрит на здоровье " + animal.name);
+        if (animal.zdorov) {
+            System.out.println("Животное здорово!");
+            if (animal.cage == "на карантине") {
+                System.out.println(animal.name + " возвращается в вольер.");
+            } else {
+                System.out.println("Погладим его)");
+            }
+            animal.cage = "В вольере";
+
+        } else {
+            System.out.println(animal.name + " все еще болен!");
+            animal.cage = "на карантине";
+        }
+    }
 }
