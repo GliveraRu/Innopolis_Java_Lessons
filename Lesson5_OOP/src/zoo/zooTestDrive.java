@@ -15,5 +15,17 @@ public class zooTestDrive {
 
         Veterinar veterinar = new Veterinar();
         Zookeeper zookeeper = new Zookeeper();
+
+        belka2.run();
+        zookeeper.golodny = true;
+        veterinar.sledit(belka1);
+        zookeeper.obed();
+        veterinar.sledit(belka2);
+
+        tiger.ukus(tiger, veterinar);
+
+        veterinar.povazka();
+
+
     }
 }
