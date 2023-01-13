@@ -21,14 +21,18 @@ public class Task1 {
             else System.out.print(massive[i]);
         }
 */
+    // Вывод
         System.out.println(deepToString(massive));
         System.out.println("Введите индекс элемента массива, для поиска кв. корня");
-        System.out.println("Квадратный корень = "+sqrt(massive[sc.nextInt()]));
+        int x = massive[sc.nextInt()];
+        double y = sqrt(x);
+        System.out.println("Квадратный корень из "+x+" = "+y);
 
         System.out.println("Введите 2а индекса элементов массива, для поиска их среднего значения");
         System.out.println("Среднее значение = "+sred(massive[sc.nextInt()],massive[sc.nextInt()]));
 
     }
+    // Методы
     public static double sqrt (int element) {
         return Math.sqrt(element);
     }

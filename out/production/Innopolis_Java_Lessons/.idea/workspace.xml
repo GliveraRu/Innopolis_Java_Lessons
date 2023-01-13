@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a832f764-1a90-424c-ab4f-10f7f65e5ba0" name="Changes" comment="Lesson 6 (Массивы) Разбор + задача №1">
-      <change afterPath="$PROJECT_DIR$/FuzzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Innopolis_Java_Lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Innopolis_Java_Lessons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson6/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/src/Task1.java" afterDir="false" />
     </list>
@@ -68,9 +66,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FuzzBuzz">
-    <configuration name="FuzzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FuzzBuzz" />
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
       <module name="Innopolis_Java_Lessons" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,16 +108,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.FuzzBuzz" />
-      <item itemvalue="Application.Massive" />
-      <item itemvalue="Application.MassiveChessBoard" />
-      <item itemvalue="Application.Task1" />
-      <item itemvalue="Application.zooTestDrive" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FuzzBuzz" />
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.MassiveChessBoard" />
         <item itemvalue="Application.Massive" />
