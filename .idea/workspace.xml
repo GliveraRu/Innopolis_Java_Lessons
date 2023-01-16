@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a832f764-1a90-424c-ab4f-10f7f65e5ba0" name="Changes" comment="Lesson 6 (Массивы) Разбор + задача №1">
-      <change afterPath="$PROJECT_DIR$/FuzzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Innopolis_Java_Lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Innopolis_Java_Lessons.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/Lesson7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/Demo_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/Demo_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/Demo_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/Demo_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson7/src/Task_Stroka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson6/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/src/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Innopolis_Java_Lessons/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Innopolis_Java_Lessons/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Innopolis_Java_Lessons/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lesson6/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson6/Task1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,24 +77,24 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FuzzBuzz">
-    <configuration name="FuzzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FuzzBuzz" />
-      <module name="Innopolis_Java_Lessons" />
+  <component name="RunManager" selected="Application.Task_Stroka">
+    <configuration name="Demo_Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo_Queue" />
+      <module name="Lesson7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Massive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Massive" />
-      <module name="Lesson6" />
+    <configuration name="Demo_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo_Stack" />
+      <module name="Lesson7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MassiveChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MassiveChessBoard" />
-      <module name="Lesson6" />
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
+      <module name="Lesson7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,33 +106,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zooTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zoo.zooTestDrive" />
-      <module name="Lesson5_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zoo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Task_Stroka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_Stroka" />
+      <module name="Lesson7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FuzzBuzz" />
-      <item itemvalue="Application.Massive" />
-      <item itemvalue="Application.MassiveChessBoard" />
+      <item itemvalue="Application.Demo_Queue" />
+      <item itemvalue="Application.Demo_Stack" />
+      <item itemvalue="Application.Task" />
+      <item itemvalue="Application.Task_Stroka" />
       <item itemvalue="Application.Task1" />
-      <item itemvalue="Application.zooTestDrive" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FuzzBuzz" />
+        <item itemvalue="Application.Task_Stroka" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Demo_Stack" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.MassiveChessBoard" />
-        <item itemvalue="Application.Massive" />
-        <item itemvalue="Application.zooTestDrive" />
+        <item itemvalue="Application.Demo_Queue" />
       </list>
     </recent_temporary>
   </component>
